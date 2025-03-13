@@ -1,8 +1,8 @@
-#📌 Descripción
+# 📌 Descripción
 
 Este es un proyecto en JavaScript para realizar un sorteo de "Amigo Secreto". Permite a los usuarios ingresar nombres en una lista y luego seleccionar aleatoriamente a un amigo secreto de entre los participantes.
 
-#📥 Instalación 
+# 📥 Instalación 
 
 1. Clona el repositorio:
 
